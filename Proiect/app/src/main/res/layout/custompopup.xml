@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:layout_height="475dp"
+    android:background="@color/cardview_dark_background"
+    android:padding="5dp"
+    android:layout_gravity="center">
+
+    <TextView
+        android:id="@+id/dialogX"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="end"
+        android:gravity="center"
+        android:text="X"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:layout_marginBottom="80dp"
+        android:gravity="center"
+        android:text="@string/grats"
+        android:textColor="#F8F4F4"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="@string/button_try" />
+
+    <Button
+        android:id="@+id/button25"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_backToMenu" />
+
+</LinearLayout>

@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Proiect</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="id">Username</string>
+    <string name="password">Password</string>
+    <string name="checkbox">Remember Credentials</string>
+    <string name="login">Login</string>
+    <string name="first">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="new_game">New Game</string>
+    <string name="highscore">History</string>
+    <string name="complete_fields">All fields are mandatory!</string>
+    <string name="incorrect">Incorrect Credentials!</string>
+    <string name="letterA">A</string>
+    <string name="letterB">B</string>
+    <string name="letterC">C</string>
+    <string name="letterD">D</string>
+    <string name="letterE">E</string>
+    <string name="letterF">F</string>
+    <string name="letterG">G</string>
+    <string name="letterH">H</string>
+    <string name="letterI">I</string>
+    <string name="letterJ">J</string>
+    <string name="letterK">K</string>
+    <string name="letterL">L</string>
+    <string name="letterM">M</string>
+    <string name="letterN">N</string>
+    <string name="letterO">O</string>
+    <string name="letterP">P</string>
+    <string name="letterQ">Q</string>
+    <string name="letterR">R</string>
+    <string name="letterS">S</string>
+    <string name="letterT">T</string>
+    <string name="letterU">U</string>
+    <string name="letterV">V</string>
+    <string name="letterW">W</string>
+    <string name="letterX">X</string>
+    <string name="letterY">Y</string>
+    <string name="letterZ">Z</string>
+    <string name="check">Ok</string>
+    <string name="delete"></string>
+    <string name="empty"></string>
+    <string name="grats">Congratulations, you won!</string>
+    <string name="try_again">Try again! The word was : </string>
+    <string name="button_try">Restart game</string>
+    <string name="button_backToMenu">Back to main menu</string>
+    <string name="back">Back</string>
+
+</resources>
